@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Pulkit Sharma",
+      "mobile": "8963917198"
+    },
+    {
+      "id": "2",
+      "name": "Shiom",
+      "mobile": "1234567"
+    },
+    {
+      "id": "3",
+      "name": "Sarthak Jain",
+      "mobile": "1111111111"
+    },
+    {
+      "id": "4",
+      "name": "HABIBI",
+      "mobile": "8963917198"
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "username": "pulkit",
+      "password": "pulkit26"
+    },
+    {
+      "id": "2",
+      "username": "hriday",
+      "password": "hridaysonawane"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "phone": 8963917198,
+      "email": "pulkitsharmam2609@gmail.com"
+    },
+    {
+      "id": "2",
+      "phone": 123456789,
+      "email": "sambhavsurana2609@gmail.com"
+    }
+  ]
+}
